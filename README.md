@@ -1,4 +1,3 @@
-# GEOL0069_Final_Project_XAI_Sea_Ice_Roughness
 # Explainable AI for Sea Ice Roughness Prediction Using Sentinel-3 Waveform Features
 
 ## Project Description
