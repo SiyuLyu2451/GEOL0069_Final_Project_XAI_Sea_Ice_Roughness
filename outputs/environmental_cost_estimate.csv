@@ -1,0 +1,10 @@
+Item,Value
+Estimated Colab runtime,3.0 hours
+Average compute power,50 W
+Data-centre overhead factor,1.2
+Estimated energy use,0.180 kWh
+Carbon intensity assumption,0.40 kg CO2e/kWh
+Estimated carbon footprint,0.072 kg CO2e
+Input dataset size,1.27 MB
+Saved figures size,2.40 MB
+Saved outputs size,0.00 MB
