@@ -233,7 +233,7 @@ CSV files containing model performance, feature rankings, selected features and 
 
 A short video explaining the code and workflow is available here:
 
-[YouTube video link to be added]
+[https://youtu.be/AI3aS-TGEQA]
 
 ## Limitations
 
